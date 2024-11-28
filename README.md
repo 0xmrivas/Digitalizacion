@@ -54,8 +54,7 @@ El proyecto está organizado en tres bloques temáticos, cada uno compuesto por 
 
 ## 🌐 Recursos Adicionales
 
-Accede a los recursos curados del proyecto:  
-[Recursos en Padlet](https://padlet.com/majerisa/lugares-1jf918a15wzkdw3s)
+Accede a los recursos curados del proyecto:  [Recursos en Padlet](https://padlet.com/majerisa/lugares-1jf918a15wzkdw3s)
 
 ## 🎓 Resultados de Aprendizaje
 
@@ -73,10 +72,6 @@ Este proyecto es el resultado de una planificación didáctica centrada en la in
 
 Este proyecto se comparte bajo una licencia Creative Commons BY-SA 4.0, lo que permite su uso y adaptación siempre que se otorgue atribución y se comparta bajo la misma licencia.
 
----
-
-> ¡Gracias por explorar este proyecto! Si tienes preguntas o sugerencias, no dudes en abrir un issue.
-
 
 ## Autoria
 
@@ -88,3 +83,8 @@ Los materiales del curso han sido desarrollados por Manuel Rivas, profesor de en
 Estos materiales están licenciados bajo la Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0). Esto significa que puedes compartir, copiar, redistribuir el material en cualquier medio o formato y adaptarlo, siempre y cuando otorgues el crédito apropiado, proporciones un enlace a la licencia e indiques si se han realizado cambios. Si remezclas, transformas o creas a partir del material, debes distribuir tus contribuciones bajo la misma licencia que el original.
 
 Para ver una copia de esta licencia, visita [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+
+---
+
+> ¡Gracias por explorar este proyecto! Si tienes preguntas o sugerencias, no dudes en abrir un issue.
