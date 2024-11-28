@@ -1,7 +1,7 @@
 # La ciberseguridad en el ámbito educativo
 
 <p align="center">
-  <img src="assets/ciberseguridad_ambito_educativo.webp" alt="Ciberseguridad en el ámbito educativo">
+  <img src="assets/portada-digitalizacion.webp" alt="Ciberseguridad">
 </p>
 <p align="center">
   <a href="LICENSE">
