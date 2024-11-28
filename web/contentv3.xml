@@ -71,7 +71,7 @@
   <string role="key" value="_intendedEndUserRoleType"></string>
   <unicode value="learner"></unicode>
   <string role="key" value="_isChanged"></string>
-  <bool value="0"></bool>
+  <bool value="1"></bool>
   <string role="key" value="_isTemplate"></string>
   <bool value="0"></bool>
   <string role="key" value="_lang"></string>
@@ -15716,7 +15716,7 @@ text through the text editing buttons associated with the field."></unicode>
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&quot;width: 6.83488%;&quot;&gt;&lt;a href=&quot;imprimible.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;img src=&quot;resources/PDF.jpeg&quot; alt=&quot;pdf&quot; width=&quot;100&quot; height=&quot;124&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&quot;width: 93.1651%;&quot;&gt;&lt;span style=&quot;font-family: 'Atkinson Hyperlegible', Arial, Helvetica, sans-serif; font-size: 16.8px;&quot;&gt; Este material está diseñado para ser leído y trabajado de manera interactiva en un ordenador, pero si quieres puedes descargártelo en &lt;a href=&quot;https://raw.githubusercontent.com/0xmrivas/ciberseguridad-ambito-educativo-online/main/assets/PDF/modulo3.pdf&quot;&gt;este enlace&lt;/a&gt; en formato pdf.&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&quot;width: 93.1651%;&quot;&gt;&lt;span style=&quot;font-family: 'Atkinson Hyperlegible', Arial, Helvetica, sans-serif; font-size: 16.8px;&quot;&gt; Este material está diseñado para ser leído y trabajado de manera interactiva en un ordenador, pero si quieres puedes descargártelo en este enlace en formato pdf.&lt;/span&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
