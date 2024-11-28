@@ -79,7 +79,7 @@ Puedes consultar la unidad didáctica completa aquí:
 Este proyecto es el resultado de una planificación didáctica centrada en la innovación educativa. Si deseas contribuir o adaptarlo, sigue las directrices de este repositorio y respeta las licencias asociadas a los recursos compartidos.
 
 
-## Autoria
+## ✍️ Autoria
 
 Los materiales del curso han sido desarrollados por Manuel Rivas, profesor de enseñanza secundaria, especialidad en sistemas y aplicaciones informáticas. Si deseas seguir mi trabajo o contactarme, puedes encontrarme en [Twitter](https://twitter.com/0xmrivas).
 
