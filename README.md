@@ -1,4 +1,4 @@
-# La ciberseguridad en el ámbito educativo
+# Protección y gestión de datos en una economía digital globalizada
 
 <p align="center">
   <img src="assets/portada-digitalizacion.webp" alt="Ciberseguridad">
