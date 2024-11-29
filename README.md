@@ -32,7 +32,7 @@ Este proyecto desarrolla la unidad didáctica **Protección y gestión de datos 
 
 **Módulo:** Digitalización Aplicada a los Sectores Productivos  
 **Nivel:** Ciclo Formativo de Grado Superior (CFGS)  
-**Duración:** Aproximadamente 4 semanas (12-16 horas en el aula + actividades complementarias)  
+**Duración:** Aproximadamente 6 semanas (6 horas en el aula + actividades complementarias)  
 
 Este módulo tiene un carácter transversal, permitiendo que los conceptos de digitalización y ciberseguridad se adapten a los distintos sectores productivos de cada familia profesional.
 
@@ -81,7 +81,7 @@ Este proyecto es el resultado de una planificación didáctica centrada en la in
 
 ## ✍️ Autoria
 
-Los materiales del curso han sido desarrollados por Manuel Rivas, profesor de enseñanza secundaria, especialidad en sistemas y aplicaciones informáticas. Si deseas seguir mi trabajo o contactarme, puedes encontrarme en [Twitter](https://twitter.com/0xmrivas).
+Los materiales han sido desarrollados por Manuel Rivas, profesor de enseñanza secundaria, especialidad en sistemas y aplicaciones informáticas. Si deseas seguir mi trabajo o contactarme, puedes encontrarme en [Twitter](https://twitter.com/0xmrivas).
 
 
 ## 📝 Licencia
